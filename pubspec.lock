@@ -54,6 +54,22 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.18.0"
+  conduit_codable:
+    dependency: transitive
+    description:
+      name: conduit_codable
+      sha256: "2530ccffacf1d3c177da68f163ca388f41cc68441d1e4ce39850559493bddf4a"
+      url: "https://pub.dev"
+    source: hosted
+    version: "4.4.0"
+  conduit_open_api:
+    dependency: transitive
+    description:
+      name: conduit_open_api
+      sha256: defc948645a53a69506c902203ca1e4579461fc79b35129641a8f31e88cb213b
+      url: "https://pub.dev"
+    source: hosted
+    version: "4.4.0"
   convert:
     dependency: transitive
     description:
@@ -78,6 +94,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "3.0.3"
+  dogs_core:
+    dependency: "direct main"
+    description:
+      name: dogs_core
+      sha256: ca6fa78e538f0862fd92d0045fea93a200b4a368071b5350c990711bfbdaa234
+      url: "https://pub.dev"
+    source: hosted
+    version: "9.1.0"
   file:
     dependency: transitive
     description:

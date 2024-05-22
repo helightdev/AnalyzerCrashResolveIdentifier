@@ -11,6 +11,7 @@ dependencies:
   # path: ^1.8.0
   macros: any
   lyell: any
+  dogs_core: ^9.1.0
 
 dev_dependencies:
   lints: ^3.0.0
